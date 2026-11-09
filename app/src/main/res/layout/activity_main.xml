@@ -115,6 +115,17 @@
             android:textStyle="bold"
             android:backgroundTint="#F5A623" />
 
+        <Button
+            android:id="@+id/logoutButton"
+            android:layout_width="match_parent"
+            android:layout_height="55dp"
+            android:layout_marginTop="18dp"
+            android:layout_marginBottom="16dp"
+            android:text="LOG OUT"
+            android:textColor="@android:color/white"
+            android:textStyle="bold"
+            android:backgroundTint="#666666" />
+
     </LinearLayout>
 
 </ScrollView>
